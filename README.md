@@ -4,7 +4,7 @@ A beautifully designed Todo app built with React, Tailwind CSS, and Framer Motio
 
 ---
 
-                    ## 🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 [View Live on Vercel](https://todo-app-orpin-eta.vercel.app/)
 
@@ -40,3 +40,5 @@ A beautifully designed Todo app built with React, Tailwind CSS, and Framer Motio
 - [Vercel](https://vercel.com/) for deployment
 
 ---
+
+̀
