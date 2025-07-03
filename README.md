@@ -1,12 +1,42 @@
-# React + Vite
+# 📝 Modern Glassmorphism Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed Todo app built with React, Tailwind CSS, and Framer Motion — featuring glassmorphism UI, animated filter tabs, confetti, and localStorage persistence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+                    ## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View Live on Vercel](https://todo-app-orpin-eta.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+| ![Screenshot](./src/assets/ss-Todo.png) |
+
+---
+
+## ✨ Features
+
+- 🧊 **Modern UI** with glassmorphism, shadows, glow effects
+- 🔥 **Add / Edit / Delete / Toggle** todos
+- 🎉 Confetti on first visit
+- 🔍 Real-time search
+- 🎛️ Animated filter tabs: All / Completed / Incomplete
+- 💾 Persistent with `localStorage`
+- 🧠 Global state via React Context API
+- ✅ Toast notifications via `react-hot-toast`
+- ⚡ Smooth transitions with `framer-motion`
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Canvas Confetti](https://github.com/catdad/canvas-confetti)
+- [React Hot Toast](https://react-hot-toast.com/)
+- [Vercel](https://vercel.com/) for deployment
+
+---
